@@ -1,4 +1,4 @@
-function [pk,sk]=setup(n,m,q)
+function [pk,sk]=setup(n,m,m1,m2,q)
 % S=good_basis(1000,n,0.90);
 % U=round(-1000+(2000)*rand(n,n));
 % [U_1,U_2]=Parse(U,n);
@@ -11,8 +11,8 @@ function [pk,sk]=setup(n,m,q)
 A1=round((q-1)*rand(n,m));
 B=round((q-1)*rand(n,n));
 for i=1:128
-    U{i}=round((q-1)*rand(n,m));
-    V{i}=round((q-1)*rand(n,m));
+    U{i}=round((q-1)*rand(n,m1));
+    V{i}=round((q-1)*rand(n,m2));
 end
 end
 
