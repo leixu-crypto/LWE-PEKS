@@ -2,7 +2,7 @@
 Multi-Writer Searchable Encryption, also known as public-key encryption with keyword search(PEKS), serves a wide spectrum of
 data sharing applications. It allows users to search over encrypted data encrypted via different keys. However, most of the existing PEKS schemes are built on theory and lack of implenmention. Here, we show how to realize a LWE-based encrypted search scheme for the paper:    
 
-Lei Xu , Xingliang Yuan , Ron Steinfeld , Cong Wang , and Chungen Xu . 2019. Multi-Writer Searchable Encryption: An LWE-based Realization and Implementation. In ACM Asia Conference on Computer and Communications Security (AsiaCCS ’19), July 9–12, 2019, Auckland, New Zealand. ACM
+Lei Xu, Xingliang Yuan, Ron Steinfeld, Cong Wang and Chungen Xu. 2019. Multi-Writer Searchable Encryption: An LWE-based Realization and Implementation. In ACM Asia Conference on Computer and Communications Security (AsiaCCS'19), July 9–12, 2019,  Auckland, New Zealand. ACM
 
 ## Setup
 Matlab: 2015
