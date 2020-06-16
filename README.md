@@ -1,4 +1,4 @@
-# LWE-PEKS
+# LWE-PEKS  A optimial TrapGen algorithm has been submitted in our anohter folder RLWE-Implemention, please find there. 
 Multi-Writer Searchable Encryption, also known as public-key encryption with keyword search(PEKS), serves a wide spectrum of
 data sharing applications. It allows users to search over encrypted data encrypted via different keys. However, most of the existing PEKS schemes are built on theory and lack of implenmention. Here, we show how to realize a LWE-based encrypted search scheme for the paper:    
 
